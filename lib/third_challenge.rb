@@ -20,8 +20,7 @@ def third_challenge
         :name => "Lady Capulet", :age => "51"
         },
       :heroine => {
-        :name of "Juliet", :age of "15", and
-a :status of "alive"
+        :name => "Juliet", :age => "15", :status => "alive"
         },
       :heroine_friends => []
    }
